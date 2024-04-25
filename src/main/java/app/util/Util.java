@@ -1,5 +1,3 @@
-package app.util;
-
 import app.config.Menu;
 import app.model.UserAccount;
 import java.nio.file.Paths;
